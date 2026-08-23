@@ -1,0 +1,28 @@
+{
+  "id": "conv-1787477777352-inbi88s4p",
+  "providerId": "codex",
+  "title": "安装 Obsidian 官方 Skill",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787477777366,
+  "lastActivityAt": 1787477838978,
+  "sessionId": "01a02dfa-63f8-7773-9909-5efc706c6091",
+  "selectedModel": "gpt-5.6-terra",
+  "providerState": {
+    "threadId": "01a02dfa-63f8-7773-9909-5efc706c6091",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\yanshijie\\.codex\\sessions\\2026\\08\\23\\rollout-2026-08-23T17-36-19-01a02dfa-63f8-7773-9909-5efc706c6091.jsonl",
+    "transcriptRootPath": "C:\\Users\\yanshijie\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "欢迎.md",
+  "usage": {
+    "inputTokens": 28253,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27392,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 28253,
+    "percentage": 11,
+    "model": "gpt-5.6-terra"
+  }
+}

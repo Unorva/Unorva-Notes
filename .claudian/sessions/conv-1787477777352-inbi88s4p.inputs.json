@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787477777352-inbi88s4p",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787477777436-poag2r7",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787477777343-lsh8a0t",
+      "timestamp": 1787477777343,
+      "rawDisplayText": "在本目录中安装一下obsidian官方的skill",
+      "canonicalText": "在本目录中安装一下obsidian官方的skill",
+      "context": {
+        "linkedContent": {
+          "path": "欢迎.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "93444ce2923dfa269842c229f455c44290e85e4964a3029da11285f2b2ee2e01",
+      "providerUserMessageId": "01a02dfa-7ccc-75b2-97d7-64b62f22d805",
+      "providerAssistantMessageId": "msg_060333d53a9fc238016a8abf4cd1d487d0b809a9162573413b"
+    }
+  ]
+}

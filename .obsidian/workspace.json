@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "b623957744057a8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e5b9c0c18356109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb37de1192d75f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "150a0f25f2e12c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ca5cdebd3bed9d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "951f0fb79f33c9fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8e184ec8caf1053d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "94dc6efd811506c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70e3837481010b7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "63b48b166607d21c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d618a69227eb92ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "e5124ed6ee55513c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "0d57141816513633",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "706a7a7bb38bba9d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1fee8f6e7630ca3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "4090e698a850aa92",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1787477708874-05522al",
+                      "conversationId": "conv-1787477777352-inbi88s4p"
+                    }
+                  ],
+                  "activeTabId": "tab-1787477708874-05522al"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 444
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "4090e698a850aa92",
+  "lastOpenFiles": [
+    "obsidian-skills/skills/obsidian-markdown/references/EMBEDS.md",
+    "obsidian-skills/skills/obsidian-markdown/references/PROPERTIES.md",
+    "obsidian-skills/skills/obsidian-markdown/references/CALLOUTS.md",
+    "obsidian-skills/skills/json-canvas/references/EXAMPLES.md",
+    "obsidian-skills/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "obsidian-skills/skills/obsidian-markdown/SKILL.md",
+    "obsidian-skills/skills/obsidian-markdown/references",
+    "obsidian-skills/skills/obsidian-cli/SKILL.md",
+    "obsidian-skills/skills/json-canvas/SKILL.md",
+    "obsidian-skills/skills/json-canvas/references",
+    "obsidian-skills/skills/obsidian-bases/SKILL.md",
+    "obsidian-skills/skills/obsidian-bases/references",
+    "obsidian-skills/skills/defuddle/SKILL.md",
+    "obsidian-skills/skills/obsidian-markdown",
+    "obsidian-skills/skills/obsidian-cli",
+    "obsidian-skills/skills/json-canvas",
+    "obsidian-skills/skills/obsidian-bases",
+    "obsidian-skills/skills/defuddle",
+    "obsidian-skills/skills",
+    "obsidian-skills/README.md",
+    "obsidian-skills/LICENSE",
+    "欢迎.md"
+  ]
+}
